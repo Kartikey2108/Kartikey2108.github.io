@@ -13,6 +13,17 @@
     margin: 4px;
 }
 
+.btn {
+    padding: 3vh;
+}
+
+@media only screen and (max-width: 700px) {
+    .rs {
+        
+        padding: 2vh;
+    }
+}
+
 .hover-btn span {
     cursor: pointer;
     display: inline-block;
